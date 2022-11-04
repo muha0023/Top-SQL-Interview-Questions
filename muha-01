@@ -1,0 +1,29 @@
+Top SQL Interview Questions for Data Science and Analytics Roles:
+
+✨How many can you answer?✨
+
+The Basics:
+1. LEFT, RIGHT, INNER, OUTER, ANTI, FULL, SELF JOINs
+2. WHERE vs. HAVING
+3. GROUP BY vs. ORDER BY
+4. UNION vs. UNION ALL
+5. CTEs vs. Subqueries
+6. Window functions
+7. Rank vs. Dense Rank vs. Row Number
+8. Primary Keys vs. Foreign Keys
+9. CASE
+10. Null handling (COALESCE and others)
+
+Conceptual Questions: 
+1. Pull all entries in Table A that are not in Table B.
+2. Describe a scenario requiring a self join.
+3. Rank all X by Y, partition by Z.
+4. Select the top customer by X.
+5. Which join returns the most and least observations (left/right, inner, full)?
+6. Code Refactoring
+7. How to optimize queries
+8. What is the distribution of X?
+9. Aggregate by date
+10. Identify duplicates
+
+Now go pass your technical interview!!
